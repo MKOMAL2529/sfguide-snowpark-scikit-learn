@@ -1,11 +1,11 @@
 snowflake_conn_prop = {
-   "account": "FPGRASU-KOA56483",
+   "account": "CCZTUEK-QRA99498",
    "user": "MKRISHNA29",
    "password": "Komal@25290106",
    "role": "ACCOUNTADMIN",
-   "database": "LLM",
-   "schema": "PUBLIC",
-   "warehouse": "MEDIUM",
+   "database": "SF_ML",
+   "schema": "POC_ML",
+   "warehouse": "COMPUTE_WH",
 }
 
 # Snowflake Account Identifiers
